@@ -1,10 +1,10 @@
 {
-  "name": "node-red-contrib-plugin-header",
+  "name": "node-red-contrib-plugin-header4worldmap",
   "version": "0.0.2",
   "description": "Custom header UI for Node-RED flow editor",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kazuhitoyokoi/node-red-contrib-plugin-header.git"
+    "url": "git+https://github.com/kazuhitoyokoi/node-red-contrib-plugin-header4worldmap.git"
   },
   "keywords": [ "node-red", "header" ],
   "node-red": {
